@@ -1,6 +1,6 @@
 {
 	"name": "pessek/pessek_scraper",
-	"version": "4.0",
+	"version": "4.1",
 	"type": "elgg-plugin",
 	"description": "Extraction and embedding service",
 	"keywords": [
@@ -19,7 +19,7 @@
 	"require": {
 		"php": ">=7.4",
 		"composer/installers": "^1.0.8",
-		"hypejunction/http-parser": "dev-master"
+		"pessek/http-parser": "~4.0"
 	},
 	"autoload": {
 		"psr-0": {
