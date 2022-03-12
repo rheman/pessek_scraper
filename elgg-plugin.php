@@ -2,7 +2,7 @@
 
 return [
         'plugin' => [
-                'version' => '4.0',
+                'version' => '4.2',
 		'name' => 'Extraction and embedding service',
         ],
 	'bootstrap' => \hypeJunction\Scraper\Bootstrap::class,
